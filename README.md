@@ -1,9 +1,9 @@
 __Seja Bem-vindo ao meu perfil__ 👋
 
 
--Meu nome é Wellington
+-Me chamo Wellington
 
--Estou estudando no Alura
+-Estou utilizando o Alura
 
 -Estou me desenvolvendo na linguagem HTML e CSS
 
